@@ -1,0 +1,36 @@
+
+body {
+    background-color: #282c34;
+    color: white;
+}
+h1{
+    color: white;
+}
+h2{
+   
+    color: white;
+}
+hr{ 
+    
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 5px;
+    width: 10%;
+}
+input{
+    background-color: #ffffff00;
+
+}
+#profile{
+    border-radius: 100%;
+}
+#profile:hover{
+    border-radius: 0px;
+}
+th{
+    font-size: 24px;
+}
+.under{
+    text-decoration-line: underline;
+}
